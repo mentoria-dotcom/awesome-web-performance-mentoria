@@ -26,6 +26,7 @@ A list of Web Performance Optimization techniques, tools and resources.
   - [Benhcmarking / Load Testing](#benhcmarking--load-testing)
   - [Image Optimization](#image-optimization)
   - [Resources](#resources)
+  - [RUM](#rum)
   - [Tracers](#tracers)
 - [Web Vitals](#web-vitals)
 - [Specs](#specs)
@@ -47,6 +48,7 @@ A list of Web Performance Optimization techniques, tools and resources.
   - [Overview of the RenderingNG architecture](https://developer.chrome.com/articles/renderingng-architecture/) — Chrome, RenderingNG, Browser Internals.
 - 2022
   - [Prerender pages in Chrome for instant page navigations](https://developer.chrome.com/blog/prerender-pages/) — Chrome, Page Load, Prerender, Prefetch.
+  - [We’re using TTVC to measure performance on the web—and now you can too](https://dropbox.tech/frontend/measuring-ttvc-web-performance-metric-open-source-library) – TTVC, Web Vitals, Performance Metrics, RUM, Page Load.
 - 2023
   - [The truth about CSS selector performance](https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance/) — CSS, Microsoft, Selector, DOM.
   - [Using :is() in complex selectors selects more than you might initially think](https://www.bram.us/2023/01/17/using-is-in-complex-selectors-selects-more-than-you-might-initially-think/) — CSS, Selectors.
@@ -178,6 +180,10 @@ TBD
 - [JS Triggers](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) – A list of JavaScript DOM APIs that can cause Reflow / Force layout
 - [WebPerf Snippets](https://github.com/nucliweb/webperf-snippets) – A curated list of snippets to get Web Performance metrics to use in the browser console or as snippets on Chrome DevTools.
 - [Latency numbers every frontend developer should know](https://vercel.com/blog/latency-numbers-every-web-developer-should-know) – A list of latency numbers every frontend developer should know.
+
+### RUM
+
+- [@dropbox/ttvc](https://github.com/dropbox/ttvc) – ttvc provides an in-browser implementation of the VisuallyComplete metric suitable for field data collection (real-user monitoring).
 
 ### Tracers
 

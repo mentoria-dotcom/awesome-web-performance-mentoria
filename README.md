@@ -80,6 +80,8 @@ A list of Web Performance Optimization techniques, tools and resources.
 - 2023
   - [Intro to Runtime Performance in the Chrome DevTools Performance Panel with Annie Sullivan](https://www.youtube.com/watch?v=3_5DKEx72qk) — Chrome, Chrome Dev Tools, Performance Profiling, Begginer Level. Annie Sullivan, Software Engineer on Google's Chrome Web Platform Team, is digging into runtime performance in the Chrome DevTools Performance Panel.
   - [Копаемся под капотом браузера, как работает event loop и compositing, Сергей Чикуенок](https://www.youtube.com/watch?v=On2EWADF81Y) — Chrome, Chrome Dev Tools, Rednering, Layout, Composition, Advanced Level (Russian Only).
+- 2024
+  - [DevTools Deep Dive | Jack Franklin | performance.now() 2024](https://www.youtube.com/watch?v=Di_B1eUo0pM) — Chrome, Chrome Dev Tools
 - 2025
   - [Speculations about Web Performance - Barry Pollard - performance.now() 2025](https://www.youtube.com/watch?v=DqE9WV76wFo) – Speculation Rules, Prefetch, Prerender
 

@@ -59,6 +59,8 @@ A list of Web Performance Optimization techniques, tools and resources.
 - 2024
   - [Object Structure in JavaScript Engines](https://blog.frontend-almanac.com/js-object-structure) – JavaScript, V8, Object Structure, Memory Management, Chrome
   - [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript) – JavaScript, Optimization, Micro-Optimization
+- 2026
+  - [Dictionary Compression is finally here, and it's ridiculously good](https://httptoolkit.com/blog/dictionary-compression-performance-zstd-brotli/) – Compression, Compression Dictionary, Delta Compression, ZSTD, Compression Dictionary Transport
 
 ## Talks / Videos
 

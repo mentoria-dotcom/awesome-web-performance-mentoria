@@ -61,6 +61,8 @@ A list of Web Performance Optimization techniques, tools and resources.
   - [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript) – JavaScript, Optimization, Micro-Optimization
 - 2026
   - [Dictionary Compression is finally here, and it's ridiculously good](https://httptoolkit.com/blog/dictionary-compression-performance-zstd-brotli/) – Compression, Compression Dictionary, Delta Compression, ZSTD, Compression Dictionary Transport
+  - [Container Timing: measuring web components performance](https://blogs.igalia.com/dape/2026/02/10/container-timing-measuring-web-components-performance/) – PerformanceObserver, visual completeness, rendering, observability
+  - [The implementation of Container Timing: aggregating paints in Blink](https://blogs.igalia.com/dape/2026/03/26/the-implementation-of-container-timing-aggregating-paints-in-blink/) – Blink, Browser Internals, Igalia.
 
 ## Talks / Videos
 
